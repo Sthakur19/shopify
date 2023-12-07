@@ -1,0 +1,8 @@
+body{
+  border:3px solid red
+}
+
+.facets__disclosure[open] .facets__display, .facets__disclosure-vertical[open] .facets__display-vertical{
+  border: 2px solid #eee;
+  border-radius: 12px;
+}
